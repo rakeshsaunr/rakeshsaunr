@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Rakesh Saunr</h1>
 <h3 align="center">Full Stack Web developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-saunr&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-saunr" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/rakeshsaunr](https://linktr.ee/rakeshsaunr)
 
