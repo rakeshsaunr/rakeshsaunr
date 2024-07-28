@@ -1,4 +1,4 @@
-<img src="path/to/your/image.jpg" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;">
+<img src="rakesh saunr-banner.png" alt="Profile Picture" style="border-radius: 50%; width: 100%; height: auto; margin-bottom: 10px;">
 
 <h1 align="center">Hi 👋, I'm Rakesh Saunr</h1>
 <h3 align="center">Full Stack Web developer from India</h3>
