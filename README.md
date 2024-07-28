@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Rakesh Saunr</h1>
 <h3 align="center">Full Stack Web developer from India</h3>
-<img src="gif.gif" alt="Profile Picture" style="border-radius: 50%; width: 100%; height: auto; margin-bottom: 10px;">
+<img src="gif.gif" alt="Profile Picture" align="right" alt="coding" width="400" style="border-radius: 50%; width: 400px; height: auto; margin-bottom: 10px;">
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/rakeshsaunr](https://linktr.ee/rakeshsaunr)
 
