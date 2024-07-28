@@ -1,4 +1,4 @@
-![Banner](rakesh saunr-banner.png)
+![Banner](https://github.com/rakeshsaunr/rakeshsaunr/blob/main/rakesh%20saunr-banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Rakesh Saunr</h1>
