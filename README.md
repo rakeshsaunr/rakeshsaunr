@@ -1,5 +1,5 @@
 ![Banner](https://github.com/rakeshsaunr/rakeshsaunr/blob/main/Rakesh%20Saunr_Linkrdin-Banner.png)
-"My name is Rakesh Saunr. I completed my MCA from Jabalpur Engineering College. I have consistently focused on web development and programming throughout my studies." I am doing Core Employability skills training from GROW with Dr. Reddy’s foundation
+Hello My name is Rakesh Saunr. I completed my MCA from Jabalpur Engineering College. I have consistently focused on web development and programming throughout my studies." I am doing Core Employability skills training from GROW with Dr. Reddy’s foundation
 
 <h1 align="center">Hi 👋, I'm Rakesh Saunr</h1>
 <h3 align="center">Full Stack Web developer from India</h3>
