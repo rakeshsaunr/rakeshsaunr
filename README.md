@@ -27,7 +27,7 @@
   - User-friendly interface for filing complaints
   - Database integration with MySQL for complaint storage
   - Accurate tracking and resolution of complaints
-  - **[Demo](https://municipalitycomplaintsolution.netlify.app/)**
+  - **[View Project](https://municipalitycomplaintsolution.netlify.app/)**
 ### **[Apna Video Call](https://apna-video-call.netlify.app/)**
 - **Description**: A real-time video calling platform using WebRTC for secure audio/video calls, group calls, and in-call messaging. It supports authentication and is responsive across devices.
 - **Technologies Used**: React, JavaScript (React.js), Node.js, Express, WebRTC, Socket.io, MongoDB, JWT
