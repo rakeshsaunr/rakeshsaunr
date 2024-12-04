@@ -119,8 +119,9 @@
 
 ### 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshsaunr&show_icons=true&theme=radical" alt="Rakesh's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshsaunr&show_icons=true&theme=transparent&hide_title=true&count_private=true&hide_border=true" alt="Rakesh's GitHub Stats">
 </p>
+
 
 ---
 
