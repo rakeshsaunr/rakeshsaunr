@@ -27,7 +27,12 @@
   - User-friendly interface for filing complaints
   - Database integration with MySQL for complaint storage
   - Accurate tracking and resolution of complaints
-  - **[View Project](https://municipalitycomplaintsolution.netlify.app/)**
+  <p align="left">
+    <a href="https://municipalitycomplaintsolution.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-%2300B0FF.svg?style=for-the-badge&logo=Google&logoColor=white" alt="View Project">
+    </a>
+  </p>
+
 ### **[Apna Video Call](https://apna-video-call.netlify.app/)**
 - **Description**: A real-time video calling platform using WebRTC for secure audio/video calls, group calls, and in-call messaging. It supports authentication and is responsive across devices.
 - **Technologies Used**: React, JavaScript (React.js), Node.js, Express, WebRTC, Socket.io, MongoDB, JWT
@@ -36,7 +41,12 @@
   - Group calls and in-call messaging
   - User authentication with JWT
   - Responsive design for multi-device compatibility
-  - **[View Project](https://apna-video-call.netlify.app/)**
+  <p align="left">
+    <a href="https://apna-video-call.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-%2300B0FF.svg?style=for-the-badge&logo=Google&logoColor=white" alt="View Project">
+    </a>
+  </p>
+
 ### **[Box Office App](https://box-officeapp.netlify.app/)**
 - **Description**: Built a movie search app allowing users to view and save movie details. Integrated real-time data from a movie database API and used local storage for Favorites management.
 - **Technologies Used**: React, JavaScript, API integration, Local Storage
@@ -44,7 +54,11 @@
   - Search and view movie details
   - Real-time data integration from a movie database API
   - Save and manage favorite movies using local storage
-  - **[View Project](https://box-officeapp.netlify.app/)**
+  <p align="left">
+    <a href="https://box-officeapp.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-%2300B0FF.svg?style=for-the-badge&logo=Google&logoColor=white" alt="View Project">
+    </a>
+  </p>
 
 ### **[Simon Says Game](https://joyful-sorbet-174cc5.netlify.app/)**
 - **Description**: Developed a memory game where players repeat sequences of colors and sounds, enhancing skills in game logic and interactive UI with React.
@@ -54,7 +68,12 @@
   - Game logic to check player input and display feedback
   - Interactive and engaging user interface built with React
   - Easy-to-use game controls with a start and reset button
-  - **[View Project](https://joyful-sorbet-174cc5.netlify.app/)**
+  <p align="left">
+    <a href="https://joyful-sorbet-174cc5.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-%2300B0FF.svg?style=for-the-badge&logo=Google&logoColor=white" alt="View Project">
+    </a>
+  </p>
+
 ### **[Todo App](https://todotaskmanagementweb.netlify.app/)**
 - **Description**: A simple and interactive Todo list app that allows users to add, edit, and delete tasks. It features a clean UI and task persistence using local storage.
 - **Technologies Used**: React, JavaScript, HTML, CSS, Local Storage
@@ -63,7 +82,12 @@
   - Mark tasks as completed or pending
   - Task persistence using local storage
   - Simple, clean, and user-friendly interface
-  - **[View Project](https://todotaskmanagementweb.netlify.app/)**
+  <p align="left">
+    <a href="https://todotaskmanagementweb.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-%2300B0FF.svg?style=for-the-badge&logo=Google&logoColor=white" alt="View Project">
+    </a>
+  </p>
+
 
 ---
 
