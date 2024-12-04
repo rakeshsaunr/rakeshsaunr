@@ -20,7 +20,13 @@
 
 ### 🚀 My Projects
 - Check out my work: [Linktree](https://linktr.ee/rakeshsaunr)
-
+### **[Municipality Complaint Solution](https://municipalitycomplaintsolution.netlify.app/)**
+- **Description**: A digital platform developed for efficient complaint management, achieving 97% accuracy in handling complaints and identifying defaulters.
+- **Technologies Used**: HTML, CSS, JavaScript, PHP, MySQL
+- **Features**:
+  - User-friendly interface for filing complaints
+  - Database integration with MySQL for complaint storage
+  - Accurate tracking and resolution of complaints
 ---
 
 ### 📬 Connect With Me
