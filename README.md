@@ -1,6 +1,9 @@
 ![Banner](https://github.com/rakeshsaunr/rakeshsaunr/blob/main/Rakesh%20Saunr_Linkrdin-Banner.png)
 
-<h1 align="center">Hi 👋, I'm Rakesh Saunr</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=40&duration=3000&pause=1000&color=A80FFA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rakesh+Saunr" alt="Typing Animation">
+</h1>
+
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
 <p align="center">
