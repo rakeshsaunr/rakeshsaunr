@@ -19,7 +19,7 @@
 - 💡 Always eager to explore new **technologies** and **frameworks**  
 
 ### 🚀 My Projects
-- Check out my work: [Linktree](https://linktr.ee/rakeshsaunr)
+- Check out my work:
 ### **[Municipality Complaint Solution](https://municipalitycomplaintsolution.netlify.app/)**
 - **Description**: A digital platform developed for efficient complaint management, achieving 97% accuracy in handling complaints and identifying defaulters.
 - **Technologies Used**: HTML, CSS, JavaScript, PHP, MySQL
@@ -27,6 +27,44 @@
   - User-friendly interface for filing complaints
   - Database integration with MySQL for complaint storage
   - Accurate tracking and resolution of complaints
+  - **[Demo](https://municipalitycomplaintsolution.netlify.app/)**
+### **[Apna Video Call](https://apna-video-call.netlify.app/)**
+- **Description**: A real-time video calling platform using WebRTC for secure audio/video calls, group calls, and in-call messaging. It supports authentication and is responsive across devices.
+- **Technologies Used**: React, JavaScript (React.js), Node.js, Express, WebRTC, Socket.io, MongoDB, JWT
+- **Features**:
+  - Secure audio/video calls using WebRTC
+  - Group calls and in-call messaging
+  - User authentication with JWT
+  - Responsive design for multi-device compatibility
+  - **[View Project](https://apna-video-call.netlify.app/)**
+### **[Box Office App](https://box-officeapp.netlify.app/)**
+- **Description**: Built a movie search app allowing users to view and save movie details. Integrated real-time data from a movie database API and used local storage for Favorites management.
+- **Technologies Used**: React, JavaScript, API integration, Local Storage
+- **Features**:
+  - Search and view movie details
+  - Real-time data integration from a movie database API
+  - Save and manage favorite movies using local storage
+  - **[View Project](https://box-officeapp.netlify.app/)**
+
+### **[Simon Says Game](https://joyful-sorbet-174cc5.netlify.app/)**
+- **Description**: Developed a memory game where players repeat sequences of colors and sounds, enhancing skills in game logic and interactive UI with React.
+- **Technologies Used**: HTML, CSS, JavaScript, React
+- **Features**:
+  - Players repeat the sequence of colors and sounds
+  - Game logic to check player input and display feedback
+  - Interactive and engaging user interface built with React
+  - Easy-to-use game controls with a start and reset button
+  - **[View Project](https://joyful-sorbet-174cc5.netlify.app/)**
+### **[Todo App](https://todotaskmanagementweb.netlify.app/)**
+- **Description**: A simple and interactive Todo list app that allows users to add, edit, and delete tasks. It features a clean UI and task persistence using local storage.
+- **Technologies Used**: React, JavaScript, HTML, CSS, Local Storage
+- **Features**:
+  - Add, edit, and delete tasks
+  - Mark tasks as completed or pending
+  - Task persistence using local storage
+  - Simple, clean, and user-friendly interface
+  - **[View Project](https://todotaskmanagementweb.netlify.app/)**
+
 ---
 
 ### 📬 Connect With Me
