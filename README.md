@@ -116,6 +116,23 @@
 </p>
 
 ---
+## 📜 **Certifications**  
+
+- **[Full Stack Web Development](#)**  
+  ![Certificate Logo](https://img.shields.io/badge/Certificate-Full%20Stack%20Web%20Development-blue?style=flat-square&logo=freecodecamp&logoColor=white)  
+  - *Apna College* (Feb 2024 - Jul 2024)  
+
+- **[Web Development Training](#)**  
+  ![Internshala Logo](https://img.shields.io/badge/Certificate-Web%20Development-yellow?style=flat-square&logo=internshala&logoColor=white)  
+  - *Internshala Trainings* (Apr 2023 - Jun 2023)  
+
+- **[Problem Solving & Frontend Development](#)**  
+  ![HackerRank Logo](https://img.shields.io/badge/HackerRank-Problem%20Solving-success?style=flat-square&logo=hackerrank&logoColor=white)  
+  - *HackerRank* (Feb 2024)  
+
+---
+
+### 🎯 **Click on the badges to view the certifications!**
 
 ### 🏆 GitHub Stats
 <p align="center">
