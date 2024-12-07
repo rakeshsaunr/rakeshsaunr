@@ -93,6 +93,7 @@
 
 ### 📬 Connect With Me
 <p align="center">
+  <a href="mailto:rakeshsaunr@gmail.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
   <a href="https://twitter.com/rakesh-saunr" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/rakesh-saunr-4471021a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/rakeshsaunrofficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
@@ -123,7 +124,7 @@
   - *Apna College* (Feb 2024 - Jul 2024)  
 
 - **[Web Development Training](#)**  
-  ![Internshala Logo](https://img.shields.io/badge/Certificate-Web%20Development-yellow?style=flat-square&logo=internshala&logoColor=white)  
+  [![Internshala Badge](https://img.shields.io/badge/Certificate-Web%20Development-yellow?style=for-the-badge&logo=internshala&logoColor=white)](#)  
   - *Internshala Trainings* (Apr 2023 - Jun 2023)  
 
 - **[Problem Solving & Frontend Development](#)**  
